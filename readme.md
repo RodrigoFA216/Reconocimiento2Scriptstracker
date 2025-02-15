@@ -25,15 +25,15 @@ Este proyecto consta de dos scripts en Python que trabajan en conjunto para regi
 
 ## Dependencias
 
-- Python 3.x
+- Python 3.10.x
 - [OpenCV](https://opencv.org/) (`opencv-python`)
 - [MediaPipe](https://mediapipe.dev/)
 - [NumPy](https://numpy.org/)
 
-Puedes instalar las dependencias usando `pip`:
+Puedes instalar las dependencias usando `pip` dentro de tu entorno virtual (recomendado):
 
 ```bash
-    pip install opencv-python mediapipe numpy
+    pip install -r requirements.txt
 ```
 
 ## Uso
