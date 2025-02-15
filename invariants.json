@@ -1,0 +1,18 @@
+{
+    "RodrigoFin": {
+        "area_invariante_1": 0.11089348870073344,
+        "area_invariante_2": 0.109812249359535,
+        "area_invariante_3": 0.1116317288184669,
+        "area_invariante_4": 0.25554859511953215,
+        "area_invariante_5": 0.16698367266103245,
+        "area_invariante_6": 0.24513026534070007
+    },
+    "Rodrigo test2": {
+        "area_invariante_1": 0.10875249646168343,
+        "area_invariante_2": 0.10643185197541694,
+        "area_invariante_3": 0.11051442985483188,
+        "area_invariante_4": 0.25891565779899794,
+        "area_invariante_5": 0.16759159800423656,
+        "area_invariante_6": 0.24779396590483324
+    }
+}
